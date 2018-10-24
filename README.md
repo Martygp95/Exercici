@@ -22,3 +22,5 @@ b) Primer s’ha creat el repositori a l’escriptori amb la comanda git init.
 
 
 S’ha afegit al repositori l’arxiu README.txt, amb la comanda git add , per tal diniciar el seguiment de l’arxiu, i posteriorment s’ha guardat al repositori amb la comanda git commit -m.
+
+[Screenshot](i1.png)
