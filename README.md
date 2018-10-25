@@ -1,6 +1,6 @@
-## Exercici 1.1.
+# Exercici 1.1.
 
-# Creació de perfil de github + repositori
+## Creació de perfil de github + repositori
 
 El meu perfil és Martygp95, amb adreça de correu electrònic marty.gp.95@gmail.com .
 
@@ -12,7 +12,7 @@ Primer s’ha creat el repositori remot ‘Exercici’ a la pàgina de GitHub, e
 
 ![alt text](imatges/i2.png)
 
-# Modificació d'arxius (README.md i File 1)
+## Modificació d'arxius (README.md i File 1)
 
 En el repositori remot s’ha creat l’arxiu README.md, el qual s’ha pogut modificar en el repositori local; un cop modificat l’arxiu README.md, es posa aquest arxiu en seguiment a partir de la comanda git add , i posteriorment s’ha guardat al repositori amb la comanda git commit -m. La -m permet afegir un comentari sobre les modificacions que hem implementat en l’arxiu.
 
@@ -30,13 +30,13 @@ Un cop es modifica algun arxiu, surt de la manera següent:
 
 Un cop s’executa la comanda git add, l’arxiu sortirà de color verd, indicant que està preparat per al commit.
 
-# Guardar canvis al repositori
+## Guardar canvis al repositori
 
 Per tal de guardar els canvis en el repositori remot, simplement s’ha d’executar la comanda git push, seguit del nom del repositori remot (en aquest cas origin) i del nom de la branca (master).
 
 ![alt text](imatges/i5.png)
 
-# Creació de branques
+## Creació de branques
 
 Actualment en el repositori remot només tenim la branca master. Es pot observar a partir de la comanda git branch. Amb aquesta comanda també es pot visualitzar, en color verd, la branca en la qual estem treballant.
 
